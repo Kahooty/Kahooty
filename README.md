@@ -1,23 +1,21 @@
 
-**On my desk** — GlobeOps, Juicebox, MIE
+![On My Desk](https://img.shields.io/badge/On_My_Desk-GlobeOps_·_Juicebox_·_MIE-222222?style=for-the-badge)
+![On My Shelf](https://img.shields.io/badge/On_My_Shelf-Hoard_&_Haggle_·_DomiCTL-222222?style=for-the-badge)
 
-**On my shelf** — Hoard & Haggle, DomiCTL
-
-**Contact** — contact@vauren.dev · [vauren.dev](https://www.vauren.dev)
+[![Website](https://img.shields.io/badge/vauren.dev-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vauren.dev)
+[![Email](https://img.shields.io/badge/contact@vauren.dev-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vauren.dev)
 
 ---
 
-### Projects
+### Active Projects
+[![Hoard & Haggle](https://img.shields.io/badge/Hoard_&_Haggle-2ea44f?style=flat-square)](#)
+[![Juicebox](https://img.shields.io/badge/Juicebox-2ea44f?style=flat-square)](#)
+[![GlobeOps](https://img.shields.io/badge/GlobeOps-2ea44f?style=flat-square)](#)
+[![DomiCTL](https://img.shields.io/badge/DomiCTL-2ea44f?style=flat-square)](#)
 
-**Active**
-- Hoard & Haggle
-- Juicebox
-- GlobeOps
-- DomiCTL
-
-**Archived**
-- R20.EzExhaust2024
-- TheFoulWind
+### Archived
+[![R20.EzExhaust2024](https://img.shields.io/badge/R20.EzExhaust2024-6c757d?style=flat-square)](#)
+[![TheFoulWind](https://img.shields.io/badge/TheFoulWind-6c757d?style=flat-square)](#)
 
 ---
 
