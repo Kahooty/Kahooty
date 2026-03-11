@@ -26,17 +26,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kahooty/kahooty/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kahooty&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kahooty&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=kahooty&theme=dark&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kahooty&theme=dark&hide_border=true&compact_layout=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kahooty&theme=default&hide_border=true&compact_layout=true">
+    <img alt="GitHub Streak" height="150" src="https://streak-stats.demolab.com/?user=kahooty&theme=dark&hide_border=true&compact_layout=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true">
+    <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=kahooty&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true">
+  </picture>
+</p>
 
 ---
 
