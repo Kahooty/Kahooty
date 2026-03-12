@@ -1,6 +1,6 @@
 ### Hello, I'm
 ![Name](https://img.shields.io/badge/Tyson_Wray-222222?style=for-the-badge)
-![Role](https://img.shields.io/badge/Solutions_Architect-2ea44f?style=for-the-badge)
+![Role](https://img.shields.io/badge/Solution_Architect-2ea44f?style=for-the-badge)
 
 ---
 
