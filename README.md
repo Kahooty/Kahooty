@@ -7,6 +7,7 @@
 ![On My Shelf](https://img.shields.io/badge/On_My_Shelf-Hoard_&_Haggle_·_DomiCTL-222222?style=for-the-badge)
 
 [![Website](https://img.shields.io/badge/vauren.dev-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vauren.dev)
+[![Website](https://img.shields.io/badge/globeops.cloud-222222?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://globeops.cloud/))
 [![Email](https://img.shields.io/badge/contact@vauren.dev-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vauren.dev)
 
 ---
